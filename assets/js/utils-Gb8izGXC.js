@@ -1,0 +1,1 @@
+function t(t,e){let n;return function(){clearTimeout(n),n=setTimeout(()=>{t.apply(this,arguments)},e)}}function e(t,e,n){let i=t+"";if(i)return i.length<=e?t:i.slice(0,e)+(n||"...")}export{t as d,e as f};
