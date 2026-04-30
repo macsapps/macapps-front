@@ -13,7 +13,7 @@ window.config = {
   // localImgPath: 'http://172.34.224.50:8082/',
 
   apiUrl: "http://192.168.68.183:8082/index.php/",
-  localImgPath: 'https://github.com/macsapps/macapps-front/blob/main',
+  localImgPath: 'https://macsapps.github.io/macapps-front/',
 
 
 
